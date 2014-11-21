@@ -1,0 +1,15 @@
+{
+  "name": "movieStub",
+  "version": "0.0.1",
+  "authors": [
+    "Wilson Novido <wilson_novido@yahoo.com>"
+  ],
+  "description": "Movie Stub App",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ]
+}
